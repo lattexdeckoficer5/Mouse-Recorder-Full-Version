@@ -236,3 +236,6 @@ This repository serves as the official landing page for Mouse Recorder. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Mouse Recorder today!**
+
+---
+**Last updated:** 2026-09-11 06:52:29 UTC
